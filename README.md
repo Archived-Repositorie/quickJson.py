@@ -4,7 +4,7 @@ Easy version of using json in python
 **How to install?**
 download `quickJson.py` file and add to your project
 
-**Hot o use?**
+**How o use?**
 ```py
 quick = import quickJson
 
