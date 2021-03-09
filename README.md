@@ -16,4 +16,4 @@ db.add("player.feed",1) #this add thing to variable
 
 db.get("player.name") #with this you can get thing from variable in json
 
-db.del("player.items") #delete variable from json
+db.delete("player.items") #delete variable from json
