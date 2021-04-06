@@ -6,9 +6,9 @@ download `quickJson.py` file and add to your project
 
 **How o use?**
 ```py
-quick = import quickJson
+ import quickJson
 
-db = quick.File("file.json") #without this you cant run project, this set file to edit
+db = quickJson.File("file.json") #without this you cant run project, this set file to edit
 
 db.set("player.name","Adam") #this set variable in json
 
